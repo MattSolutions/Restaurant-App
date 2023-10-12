@@ -9,5 +9,6 @@ Contains integrated the **MenuApp** repository.
 - **Data Service**: The app uses a data service to fetch and manage menu data.
 - **Sheets for Gallery**: The gallery view utilizes sheets for a detailed view of sushi items.
 
-#Preview 
+# Preview 
+
 ![Simulator Screen Recording - iPhone 15 Pro - 2023-10-12 at 17 08 06](https://github.com/MattSolutions/Restaurant-App/assets/107211461/69e58fe5-aa8d-4b66-ba62-b6f0b6d7f507)
