@@ -1,3 +1,3 @@
 # Restaurant-App
 
-Integrated the #MenuApp repository in this SwiftUI app. 
+Integrated the **MenuApp** repository in this SwiftUI app. 
